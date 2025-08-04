@@ -1,12 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Designed and developed a location-based disaster management communication system focused on flood-prone areas in India. The platform provides real-time collaboration through separate chatrooms for different stakeholders — citizens, emergency responders, government agencies, and NGOs — enabling focused, role-specific conversations.
+Key features include:
+Dynamic chatrooms categorized by stakeholder and specific disaster-related issues.
+Interactive map integration for selecting locations and sending geo-tagged messages (with latitude, longitude, and place name).
+Problem-based messaging to streamline relief coordination.
+Image uploads within chats to share live updates or evidence from affected zones.
+This solution addresses the common challenges in disaster management like delayed alerts, fragmented communication, and slow emergency response. It encourages community participation while enhancing coordination across all involved entities.
